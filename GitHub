@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/TU_USUARIO/eduardo-services-app.git
+git add .
+git commit -m "Primer commit del software de limpieza"
+git push -u origin master
